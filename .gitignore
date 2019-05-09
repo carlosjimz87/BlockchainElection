@@ -14,7 +14,7 @@ build_webpack
 
 # misc
 .gitignore
-.git
+.github
 .DS_Store
 .env
 npm-debug.log
