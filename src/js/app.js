@@ -1,7 +1,7 @@
 App = {
   web3Provider: null,
   contracts: {},
-  account: '0x0',
+  account: '0x7bdc466d0a5ecf52eebe9f9f401c4b8ff960cecb',
   hasVoted: false,
 
   init: function() {
